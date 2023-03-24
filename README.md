@@ -1,2 +1,2 @@
-# Electricity
+# ElectricityBillingSystem
 Electricity Billing System
